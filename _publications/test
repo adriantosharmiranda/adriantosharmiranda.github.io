@@ -2,7 +2,7 @@
 title: "Strictifying Operational Coherences and Weak Functor Classifiers in Low Dimensions"
 collection: publications
 permalink: /publication/StrictifyingOperationalCoherences
-excerpt: 'This paper studies particular well-behaved strictification constructions in low dimensions n ∈ {2,3}. Specifically, any bicategory (resp. tricategory) is biequivalent (resp. triequivalent) to a 2-category (resp. Gray-category) whose underlying category (resp. sesquicategory) is free on a graph (resp. 2-computad). We examine how the resulting freeness in codimension one of the strictified structure informs how the strictification construction extends to weak maps between higher categories, in which the usual functoriality or naturality axioms hold up to suitable equivalences.'
+excerpt: ''
 date: 04/07.2023
 venue: 'Awaiting peer review'
 paperurl: 'https://arxiv.org/abs/2307.01498'

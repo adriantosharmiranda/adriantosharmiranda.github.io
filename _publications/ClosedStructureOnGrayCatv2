@@ -2,7 +2,7 @@
 title: "A semi-strictly generated closed structure on $\mathbf{Gray}$-categories"
 collection: publications
 permalink: /publication/ClosedStructureOnGrayCatv2
-excerpt: 'Although semi-strict trinatural transformations are not closed under composition, once they are closed under composition they form the morphisms of internal homs $\mathfak{A},\mathfrak{B}$ of $\mathbf{Gray}$-categories $\mathfrak{A}$ and $\mathfrak{B}$. These internal homs indeed form part of a closed structure on $\mathbf{Gray}$-$\mathbf{Cat}$'
+excerpt: 'Although semi-strict trinatural transformations are not closed under composition, once they are closed under composition they form the morphisms of internal homs $\mathfrak{A},\mathfrak{B}$ of $\mathbf{Gray}$-categories $\mathfrak{A}$ and $\mathfrak{B}$. These internal homs indeed form part of a closed structure on $\mathbf{Gray}$-$\mathbf{Cat}$'
 date: 19/11.2023
 venue: 'Awaiting peer review'
 paperurl: 'https://arxiv.org/abs/2311.11403'

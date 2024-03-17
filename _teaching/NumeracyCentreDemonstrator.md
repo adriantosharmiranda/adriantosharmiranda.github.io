@@ -4,7 +4,7 @@ collection: teaching
 type: "NumeracyCentreDemonstrator"
 permalink: /NumeracyCentreDemonstrator
 venue: "Macquarie University"
-date: "2018 to 2021"
+date: 01/01.2018
 location: "Sydney, Australia"
 ---
 

@@ -3,8 +3,9 @@ title: "Numeracy Centre Demonstrator"
 collection: teaching
 type: "Numeracy Centre Demonstrator"
 permalink: /NumeracyCentreDemonstrator
-venue: "Macquarie University, 2018"
-date: 2021
+venue: "Macquarie University"
+start date: 01/01.2018
+end date: 31/12.2021
 location: "Sydney, Australia"
 ---
 

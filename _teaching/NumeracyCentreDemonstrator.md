@@ -1,20 +1,10 @@
 ---
 title: "Numeracy Centre Demonstrator"
 collection: teaching
-type: "NumeracyCentreDemonstrator"
+type: "Numeracy Centre Demonstrator"
 permalink: /NumeracyCentreDemonstrator
-venue: "Macquarie University"
-date: 01/01.2018
+venue: "Macquarie University, 2018-2021"
 location: "Sydney, Australia"
 ---
 
 Helping students with mathematics related homework.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

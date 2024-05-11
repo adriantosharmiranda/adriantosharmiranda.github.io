@@ -1,10 +1,10 @@
 ---
-title: "A semi-strictly generated closed structure on $Gray$-categories"
+title: "Abstract Kleisli structures on $2$-categories"
 collection: publications
-permalink: /publication/ClosedStructureOnGrayCat
-excerpt: 'We show that the semi-strictly generated internal homs of $\mathbf{Gray}$-categories defined in a previous paper underlie a closed structure on the category $\mathbf{Gray}$-$\mathbf{Cat}$ of $\mathbf{Gray}$-categories and $\mathbf{Gray}$-functors. The morphisms of the internal hom are composites of those trinatural transformations which satisfy the unit and composition conditions for pseudonatural transformations on the nose rather than up to an invertible $3$-cell. Such trinatural transformations leverage three-dimensional strictification while overcoming the challenges posed by failure of middle four interchange to hold in $\mathbf{Gray}$-categories. As a result we obtain a closed structure that is only partially monoidal with respect to the Crans monoidal structure. As a corollary we obtain a slight strengthening of strictification results for braided monoidal bicategories, which will be improved further in a forthcoming paper.'
-date: 19/11.2023
-venue: 'Awaiting peer review'
-paperurl: 'https://arxiv.org/abs/2311.11403'
-citation: 'Miranda, Adrian. (2023).'
+permalink: /publication/AbstractKleisliStructuresOn2Cats
+excerpt: 'Fuhrmann introduced Abstract Kleisli structures to model call-by-value programming languages with side effects, and showed that they correspond to monads satisfying a certain equalising condition on the unit. We first extend this theory to non-strict morphisms of monads, and to incorporate $2$-cells of monads. We then further extend this to a theory of abstract Kleisli structures on $2$-categories, characterising when the original pseudomonad can be recovered by the abstract Kleisli structure on its $2$-category of free-pseudoalgebras.'
+date: 01/04.2024
+venue: 'Accepted for publication in Electronic Proceedings in Theoretical Computer Science'
+paperurl: 'https://arxiv.org/abs/2404.00900'
+citation: 'Miranda, Adrian. (2024).'
 ---

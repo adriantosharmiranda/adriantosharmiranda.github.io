@@ -1,10 +1,10 @@
 ---
-title: "A semi-strictly generated closed structure on $Gray$-categories"
+title: "Internal Categories"
 collection: publications
-permalink: /publication/ClosedStructureOnGrayCat
-excerpt: 'We show that the semi-strictly generated internal homs of $\mathbf{Gray}$-categories defined in a previous paper underlie a closed structure on the category $\mathbf{Gray}$-$\mathbf{Cat}$ of $\mathbf{Gray}$-categories and $\mathbf{Gray}$-functors. The morphisms of the internal hom are composites of those trinatural transformations which satisfy the unit and composition conditions for pseudonatural transformations on the nose rather than up to an invertible $3$-cell. Such trinatural transformations leverage three-dimensional strictification while overcoming the challenges posed by failure of middle four interchange to hold in $\mathbf{Gray}$-categories. As a result we obtain a closed structure that is only partially monoidal with respect to the Crans monoidal structure. As a corollary we obtain a slight strengthening of strictification results for braided monoidal bicategories, which will be improved further in a forthcoming paper.'
-date: 19/11.2023
-venue: 'Awaiting peer review'
-paperurl: 'https://arxiv.org/abs/2311.11403'
-citation: 'Miranda, Adrian. (2023).'
+permalink: /publication/InternalCategories
+excerpt: 'In our first chapter, we will define categories, functors, and natural transformations internally to any category with pullbacks ε, and we will prove in detail that they form a Cat-enriched category, or 2-category Cat (ε), with powers by 2 and any conical limits that ε also has. Along the way we will describe how certain familiar notions of category theory can be made sense of internally. In Chapter Two we will explore how some properties of ε are inherited by, or give rise to other properties in Cat (ε). In Chapter Three we will investigate the extension of the assignment ε -> Cat (ε) to various 2-functors, and in particular equip one of them with various monad-like structures. One of these was remarked upon in [6], but to our knowledge the other two have not appeared elsewhere in the literature. Chapter Four will be an intermezzo on the Grothendieck Construction in preparation for Chapter Five, where we will explore factorisations of internal functors, including in particular the comprehensive factorisation.'
+date: 19/10.2018
+venue: 'Masters Thesis, Macquarie University'
+paperurl: 'https://figshare.mq.edu.au/articles/thesis/Internal_categories/19434626/1'
+citation: 'Miranda, Adrian. (2018).'
 ---

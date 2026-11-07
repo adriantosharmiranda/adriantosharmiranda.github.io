@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* May 2023 - Present: Postdoctoral Research in Pure Mathematics
+* May 2023 – 31 January 2025: Postdoctoral Research in Pure Mathematics
   * University of Manchester
   * Project: Monoidal Bicategories, Linear Logic and Operads
   * Principal Investigator: Dr. Nicola Gambino

@@ -28,18 +28,18 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Selected presentations
 ======
 Recorded talks, invited seminars, conference talks and posters are listed on the [Talks page](/talks/).
-  
+
 Teaching
 ======
 * Graduate Lecturer, University of Manchester, 2024 to 2025
 * Undergraduate Supervisor, University of Manchester, 2023
 * Undergraduate Tutor, Macquarie University, 2019 to 2020
 * Numeracy Centre Demonstrator, Macquarie University, 2018 to 2021
-  
+
 Service and leadership
 ======
 * Programme Committee, Applied Category Theory 2025

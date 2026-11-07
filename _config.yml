@@ -83,11 +83,11 @@ author:
   name             : "Adrian Miranda"
   avatar           : "profile.png"
   bio              : "Category theorist: coherence, strictification and categorical logic"
-  location         : "Manchester"
+  location         :
   employer         :
   pubmed           : ""
   googlescholar    : "https://scholar.google.com/citations?user=98aWjBUAAAAJ"
-  email            :  adrian.miranda@manchester.ac.uk
+  email            : "adriantosharmiranda@hotmail.com"
   researchgate     :  # example: ""
   uri              :
   bitbucket        :

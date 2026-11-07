@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Adrian Miranda"
   avatar           : "profile.png"
-  bio              : "Australian Category theorist with an interest in logic"
-  location         : "Manchester"
+  bio              : "Category theorist: coherence, strictification and categorical logic"
+  location         :
   employer         :
   pubmed           : ""
-  googlescholar    : ""
-  email            :  adrian.miranda@manchester.ac.uk
+  googlescholar    : "https://scholar.google.com/citations?user=98aWjBUAAAAJ"
+  email            : "adriantosharmiranda@hotmail.com"
   researchgate     :  # example: ""
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : ""
+  orcid            : "https://orcid.org/0009-0005-1767-8672"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

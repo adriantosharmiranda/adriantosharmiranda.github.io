@@ -10,6 +10,10 @@ redirect_from:
 
 I am a mathematician specialising in category theory. My research focuses on **coherence and strictification in low-dimensional higher category theory**, and also explores pseudomonads, enriched and homotopical universal properties, and connections with categorical logic.
 
+I was a postdoctoral researcher in pure mathematics at the University of Manchester from May 2023 until 31 January 2025.
+
+**Contact:** [adriantosharmiranda@hotmail.com](mailto:adriantosharmiranda@hotmail.com).
+
 ### Research interests
 
 - **Higher categories and coherence:** bicategories, tricategories, Gray-categories, weak higher-dimensional structures, and strictification.

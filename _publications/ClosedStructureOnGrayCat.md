@@ -6,6 +6,6 @@ permalink: /publication/ClosedStructureOnGrayCat
 excerpt: 'We show that the semi-strictly generated internal homs of $\mathbf{Gray}$-categories defined in a previous paper underlie a closed structure on the category $\mathbf{Gray}$-$\mathbf{Cat}$ of $\mathbf{Gray}$-categories and $\mathbf{Gray}$-functors. The morphisms of the internal hom are composites of those trinatural transformations which satisfy the unit and composition conditions for pseudonatural transformations on the nose rather than up to an invertible $3$-cell. Such trinatural transformations leverage three-dimensional strictification while overcoming the challenges posed by failure of middle four interchange to hold in $\mathbf{Gray}$-categories. As a result we obtain a closed structure that is only partially monoidal with respect to the Crans monoidal structure. As a corollary we obtain a slight strengthening of strictification results for braided monoidal bicategories, which will be improved further in a forthcoming paper.'
 date: '2024-01-01'
 venue: 'Journal of Pure and Applied Algebra 228 (11) (2024), 107740'
-paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0022404924001373'
-citation: 'Miranda, A. (2024). A semi-strictly generated closed structure on Gray-Cat. Journal of Pure and Applied Algebra 228 (11), 107740.'
+paperurl: 'https://doi.org/10.1016/j.jpaa.2024.107740'
+citation: 'Miranda, A. (2024). A semi-strictly generated closed structure on Gray-Cat. Journal of Pure and Applied Algebra 228 (11), 107740. https://doi.org/10.1016/j.jpaa.2024.107740'
 ---

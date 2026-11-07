@@ -11,15 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.Sc. (Mathematics) in UNSW, Sydney, June 2016
-* Masters by Coursework (Bicategories and Higher Categories), UNSW, Sydney, June 2017, under A. Prof. Daniel Chan
-* Masters by Research (Internal Categories), Macquarie University, Sydney, October 2018, under A. Prof. Stephen Lack and A. Prof. Dominic Verity
-* Doctorate (Topics in Low Dimensional Higher Category Theory), Macquarie University, February 2023
+* B.Sc. (Mathematics), UNSW, Sydney, June 2016
+* Masters by Coursework (Bicategories and Higher Categories), UNSW, Sydney, conferred December 2017, under A. Prof. Daniel Chan
+* Masters by Research (Internal Categories), Macquarie University, Sydney, thesis submitted October 2018, conferred April 2019, under A. Prof. Stephen Lack and A. Prof. Dominic Verity
+* PhD (Topics in Low Dimensional Higher Category Theory), Macquarie University, thesis submitted February 2023, conferred February 2024
 
 Work experience
 ======
-* May 2023 – 31 January 2025: Postdoctoral Research in Pure Mathematics
-  * University of Manchester
+* Graduate Lecturer, University of Manchester, 2024 to 2025: prepared and delivered an online category theory course for PhD students across the UK
+* 1 May 2023 to 31 January 2025: Postdoctoral Research in Pure Mathematics, University of Manchester
   * Project: Monoidal Bicategories, Linear Logic and Operads
   * Principal Investigator: Dr. Nicola Gambino
 
@@ -29,20 +29,25 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Selected presentations
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+Recorded talks, invited seminars, conference talks and posters are listed on the [Talks page](/talks/).
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Graduate Lecturer, University of Manchester, 2024 to 2025
+* Undergraduate Supervisor, University of Manchester, 2023
+* Undergraduate Tutor, Macquarie University, 2019 to 2020
+* Numeracy Centre Demonstrator, Macquarie University, 2018 to 2021
   
 Service and leadership
 ======
-* Categories and Companions Symposium 2021: Led the organisation team
-* Australian Junior Category Theory Seminar 2018-2021: Organised weekly seminars for students and postdocs
-* Manchester Category Theory Seminar 2023: Organised weekly seminars on category theory
+* Programme Committee, Applied Category Theory 2025
+* Categories and Companions Symposium 2021: led the organisation team
+* Australian Junior Category Theory Seminar, 2018 to 2021: organised weekly seminars for students and postdocs
+* Manchester Category Theory Seminar, May to December 2023: organised weekly seminars on category theory
+* Informal research mentoring of PhD students, with collaboration producing joint papers
+
+Recognition
+======
+* Best Talk (jointly awarded), Australian Kittens, 2021

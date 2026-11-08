@@ -14,11 +14,13 @@ I was a postdoctoral researcher in pure mathematics at the University of Manches
 
 **Contact:** [adriantosharmiranda@hotmail.com](mailto:adriantosharmiranda@hotmail.com).
 
+**CV:** <a href="/files/Adrian-Miranda-CV.pdf" download="Adrian-Miranda-CV.pdf">Download CV (PDF, 2 pages)</a>.
+
 ### Research interests
 
 - **Higher categories and coherence:** bicategories, tricategories, Gray-categories, weak higher-dimensional structures, and strictification.
 - **Monads and universal properties:** pseudomonads, Kleisli and Eilenberg--Moore constructions, and enriched and tricategorical (co)limits.
-- **Logic and categorical structures:** categorical foundations, two-dimensional categorical logic, and connections with computational presentations.
+- **Logic and Homotopical Structures:** categorical foundations, two-dimensional categorical logic, and connections with computadic presentations and cofibrancy.
 
 ### Publications
 
